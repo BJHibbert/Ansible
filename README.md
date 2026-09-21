@@ -1,4 +1,4 @@
 # Ansible
 Main ansible configuration repository
 
-A work in progress
+A work in progress...
